@@ -5,7 +5,6 @@
 > At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ## General
-
 <ul>
 <li>What is a binary tree</li>
 <li>What is the difference between a binary tree and a Binary Search Tree</li>
